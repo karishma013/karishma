@@ -1,1 +1,6 @@
 /bin/
+/CoreJava/.project/
+/CoreJava/.classpath/
+/CoreJava/.settings/
+/.idea/
+.DS_Store
