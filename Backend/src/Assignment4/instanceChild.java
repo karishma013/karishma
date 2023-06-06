@@ -1,5 +1,6 @@
+package Backend.src.Assignment4;
 
-public class instanceChild extends instanceParent{
+public class instanceChild extends instanceParent {
 	public int n2;
 	
 	public instanceChild(int n1,int n2) {

@@ -1,5 +1,6 @@
+package Backend.src.Assignment4;
 
-public class classpare implements interface1,interface2 {
+public class classpare implements interface1, interface2 {
 
 	public int method1(int n1,int n2) {
 		System.out.println( "interface1 "+n1+","+n2);

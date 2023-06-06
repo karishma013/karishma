@@ -1,3 +1,5 @@
+package Backend.src.Assignment2;
+
 public class Student{
     private String name;
     public String getName() {

@@ -1,3 +1,4 @@
+package Backend.src.Assignment3;
 
 public class ScienceStudent extends School {
 	public void student(){
