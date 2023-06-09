@@ -2,7 +2,7 @@ package Backend.src.Assignment6;
 
 import java.util.Scanner;
 
-public class reverseString {
+public class reverseArray {
     public static void main(String[] args)
     {
         int n;
