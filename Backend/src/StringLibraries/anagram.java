@@ -1,4 +1,4 @@
-package Backend.src.Assignment7;
+package Backend.src.StringLibraries;
 
 import java.util.Arrays;
 

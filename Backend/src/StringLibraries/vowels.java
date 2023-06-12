@@ -1,4 +1,4 @@
-package Backend.src.Assignment7;
+package Backend.src.StringLibraries;
 
 public class vowels {
     public static void main(String []args){
