@@ -19,7 +19,9 @@ public class sumArray {
                     for (int j = finalI * 20; j < (finalI + 1) * 20; j++) {
                         sum += array[j];
                     }
+
                     return sum;
+
                 }
             });
         }
@@ -36,6 +38,7 @@ public class sumArray {
         int[] array = new int[100];
         for (int i = 0; i < array.length; i++) {
             array[i] = i + 1;
+
         }
 
         int sum = sumArray(array);
